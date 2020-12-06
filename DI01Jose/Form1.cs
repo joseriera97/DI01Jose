@@ -131,7 +131,6 @@ namespace DI01Jose
                     }
                     accessoriesLabel.Text = productos.Count() + " Products found";
                     break;
-
             }
 
         }
