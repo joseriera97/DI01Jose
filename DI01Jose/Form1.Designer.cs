@@ -176,6 +176,7 @@
             this.subCategorylabel.Size = new System.Drawing.Size(179, 20);
             this.subCategorylabel.TabIndex = 3;
             this.subCategorylabel.Text = "Choose SubCategory";
+            this.subCategorylabel.Visible = false;
             // 
             // comboBox1
             // 
@@ -184,6 +185,7 @@
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(131, 28);
             this.comboBox1.TabIndex = 4;
+            this.comboBox1.Visible = false;
             // 
             // bikesLabel
             // 
